@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cena</h1>
 <h3 align="center">Fullstack Javascript Developer</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **GraphQL**
 
 - 📫 How to reach me **cenamxpg@gmail.com**
 
