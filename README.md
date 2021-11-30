@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cena</h1>
-<h3 align="center">Full-stack Javascript Developer</h3>
+<h3 align="center">Full-Stack Javascript Developer</h3>
 
 - 🚀 I’m currently learning **GraphQL**
 
