@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cena</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 🚀 I’m currently learning **GraphQL**
+- 🚀 I’m currently learning **Remix**
 
 - 📫 How to reach me **cenamxpg@gmail.com**
 
