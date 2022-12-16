@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Cena</h1>
-<h3 align="center">Full-Stack Javascript Developer</h3>
+Hi 👋, I'm Cena
+<h3>Full-Stack Javascript Developer</h3>
 
 - 🎯 I’m currently working on my personal projects
 - 📫 How to reach me: **cenamxpg@gmail.com**
+- ⚡ Hobbies: Playing video games and Reading
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
