@@ -5,5 +5,5 @@
 - 📫 How to reach me: **cenamxpg@gmail.com**
 - ⚡ Hobbies: Playing Video Games and Reading
 
-<!-- ### Connect with me:
-[![Linkedin](./linkedin.svg)](https://linkedin.com/in/cena-max) -->
+### Connect with me:
+[![Linkedin](./linkedin.svg)](https://linkedin.com/in/cena-max)
