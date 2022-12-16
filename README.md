@@ -6,4 +6,5 @@
 - ⚡ Hobbies: Playing Video Games and Reading
 
 ### Connect with me:
-[![Linkedin](./linkedin.svg)](https://linkedin.com/in/cena-max)
+[![Website](./website.png)](https://cenamax.vercel.app)
+[![Linkedin](./linkedin.png)](https://linkedin.com/in/cena-max)
