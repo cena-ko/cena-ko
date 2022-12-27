@@ -7,4 +7,4 @@
 
 ### Connect with me:
 [![Website](./img/website.png)](https://cenamax.vercel.app)
-[![Linkedin](./img/linkedin.png)](https://linkedin.com/in/cena-max)
+[![Linkedin](./img/linkedin.png)](https://linkedin.com/in/cena-ko)
