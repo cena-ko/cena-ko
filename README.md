@@ -1,4 +1,4 @@
-# Hi 👋, I'm Cena - aka Maxx
+# Hi 👋, I'm Cena - aka mxx
 ## I'm a Software Engineer
 
 - 🎯 I’m currently working on my personal projects
